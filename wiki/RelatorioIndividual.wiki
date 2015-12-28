@@ -1,0 +1,48 @@
+= Carlos Alberto =
+
+||Data||Local||Descrição||Trabalho de Referência||
+||07/10/11||Casa||Criei o módulo Pedido, com a classe Pedido (modelo) e a classe PedidoDAO (modeloDAO). No pacote visão foram criadas as telas de consulta e de cadastro do Pedido.||1º Marco do TCC||
+||08/10/11||Casa||No módulo Entregador criei a classe Entregador (modelo) e a classe EntregadorDAO (modeloDAO). No pacote visão criei a tela de consulta de de cadastro do Entregador.||1º Marco do TCC||
+||09/10/11||Casa||Foi criado também a classe Cliente (modelo) e a classe ClienteDAO (modeloDAO), juntamente com a telas de consulta e de cadastro do Cliente no pacote visão.||1º Marco do TCC||
+||03/11/11||Aula||Criei o Issue Correções no repositório Subversion.||2º Marco do TCC||
+||08/11/11||EPD||Conclui na Lista de Recursos o uso do Google Chrome.||2º Marco do TCC||
+||24/11/11||Aula||Criei o Issue 42 Conclusão de tarefa de codificação.||3º Marco do TCC||
+||24/11/11||Aula||Concluí o 3º Marco.||3º Marco do TCC||
+||24/11/11||Aula||Foi criado o issue 43 resumo de motivação da construção do sistema.||4º Marco do TCC||
+||05/12/11||Aula||Desenvolvimento do site da pizzaria para o projeto e correção do 4º Marco.||4º Marco do TCC||
+||09/12/11||Aula||Execução dos releases issue 64.||5º Marco do TCC||
+
+= Gustavo Lima =
+
+||Data||Local||Descição||Trabalho de Referência||
+||08/10/11||casa||Criei as classes que constituem o pacote modelo(Estado, Cidade, Bairro, logradouro, Tipo Logradouro).||1º Marco do TCC||
+||09/10/11||casa||Criei as classes que constituem o pacote modeloDao(EstadoDao, CidadeDao, BairroDao, logradouroDao).||1º Marco do TCC||
+||15/10/11||casa||Continuação da criação do pacote modeloDao(Tipo Logradourodao), neste mesmo dia comecei a modelar o pacote visão criando os formularios JFrame para cadastro.||1º Marco do TCC||
+||15/10/11||casa||Continuação do pacote visão para cadastro de endereço.||1º Marco do TCC||
+||03/11/11||laboratório||publicação do gráfico||2º Marco do TCC||
+||03/11/11||laboratório||correção do subversion||2º Marco do TCC||
+||03/11/11||laboratório||publicação na Lista de Recursos||2º Marco do TCC||
+||04/11/11||EPD||Criei as classes TabelaBebida e TabelaPizza||2º Marco do TCC||
+||04/11/11||EPD||Criei a tela gráfica JDCnsBebida e os codigos||2º Marco do TCC||
+||04/11/11||EPD||Implementei o codigo na tela JDCnsPizza||2º Marco do TCC||
+||04/11/11||laboratorio||Criei a tela gráfica JFCadBebida e JFCadPizza os codigos referentes||2º Marco do TCC||
+|| 12/11/11||Casa||Implementação de codigo no módulo Pedido||2º Marco do TCC||
+||16/11/11||EPD||Criei releases||3º Marco do TCC||
+||16/11/11||EPD||Conclui algumas codificação de código||3º Marco do TCC||
+||21/11/11||Laboratório||Conclui 3º marco||3º Marco do TCC||
+||28/11/2011||Laboratório||Alterações de entrega dos releases||4º Marco do TCC||
+||01/12/2011||Laboratório||Pré-Apresentação do TCC||4º Marco do TCC||
+
+= George Soares =
+
+||Data||Local||Descrição||Trabalho de Referência||
+||03/11/11||Aula||Criei tres tarefas na lista de tarefas.||1º Marco do TCC||
+||03/11/11||Aula||Pesquisei na internet diferentes Layouts para utilizar no site da pizzaria.||1º Marco do TCC||
+||03/11/11||Aula||Foi feito o submit do banco de dados no google code.||1º Marco do TCC||
+||04/11/2011||Trabalho||Concluido Relatório individual do 2º MARCO - Issue-20||2º Marco do TCC||
+||20/11/2011||Aula ||Foi feito um pequeno treinamento refente ao uso do Gerenciamento de Projeto.||3º Marco do TCC||
+||28/11/2011||Aula ||Conclui a tarefa de codificação do 3º Marco - George r99.||3º Marco do TCC||
+||01/12/2011||Aula ||Pré-Apresentação do TCC.||4º Marco do TCC||
+||09/12/2011||Aula ||Execução dos releases, issue 58||4º Marco do TCC||
+||08/12/2011||Aula ||Apresentação do TCC, issue 63||5º Marco do TCC||
+||09/12/2011||Aula ||Execução dos Releases, issue 65||5º Marco do TCC||

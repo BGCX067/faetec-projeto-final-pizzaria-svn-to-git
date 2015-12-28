@@ -1,0 +1,16 @@
+*_Fonte de Pesquisa_*
+ * Projetos do 2º Módulo
+ * Projeto sisfinan 3º Módulo
+ * Projetos da EPD
+
+*_Softwares_*
+ * NetbeansIDE 7.0.1 - Execução do Projeto;
+ * DB Designer - Criação do DER;
+ * WampServer:phpmyadmin - Criação do Banco de Dados;
+ * Google Chrome - Utilizado para a tradução do repositório;
+ * Microsoft Office - Execução da documentação e slides do Projeto.  
+
+*_Máquinas_*
+ * Computador Casa
+ * Computador Faetec
+ * Computador EPD

@@ -1,0 +1,4 @@
+||Release||Data de Entrega||empacotamento das versões||
+||0.1 ||15/11/2011||http://code.google.com/p/faetec-projeto-final-pizzaria/downloads/detail?name=Vers%C3%A3o%200.1.zip&can=2&q=||
+||0.2 ||01/12/2011||http://code.google.com/p/faetec-projeto-final-pizzaria/downloads/detail?name=Vers%C3%A3o%200.2.zip&can=2&q=||
+||0.3 ||08/12/2011||http://code.google.com/p/faetec-projeto-final-pizzaria/downloads/detail?name=Vers%C3%A3o%200.3.zip&can=2&q=||
